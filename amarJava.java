@@ -2,4 +2,4 @@
 
 
 public class amar
-      system.out.println()
+      system.out.println("new changes made for practice")
